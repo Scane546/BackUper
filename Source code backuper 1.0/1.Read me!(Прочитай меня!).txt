@@ -1,0 +1,28 @@
+Вам обязательно понадобится Win Rar (он в комплекте)
+
+Для удобства указаны все пути на примере игры 7DaysToDie
+
+Обертка для .bat - vb scrippt используется вместо ярлыка в нем указывете путь к игре и к 2 батникам которые лежат в папке вместе с ним 
+
+BackUp everyone - делает бэкап 1 раз после чего завершает работу 
+
+BackUp with cycle - сам цикл для бэкапирования по сути тот же предыдущий файл но повторяемый по кругу до закрытия игры или программы
+
+Вся остальная информация в комментариях в бат файлах и VB скриптах
+
+Музыку чтоб почувствовать себя программистом и делать быстрее и не так скучно приложил)
+
+
+You will definitely need Win Rar (it is included)
+
+ For convenience, all paths are listed using the example of the game 7DaysToDie
+
+ The wrapper for .bat - vb scrippt is used instead of a shortcut, where you specify the path to the game and the 2 bat files that are located in the same folder.
+
+BackUp everyone - makes a backup once and then terminates 
+
+BackUp with cycle - the cycle itself for backing up is essentially the same previous file but repeated in a loop until the game or program is closed
+
+All other information in comments in bat files and VB scripts
+
+Music to feel like a programmer and do it faster and not so boring attached)
